@@ -1,9 +1,6 @@
-# streamvalley
+# <img align="left" alt="Streamvalley" width="40px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+
 💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
-
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
-
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
 
 
