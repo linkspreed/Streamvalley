@@ -59,5 +59,5 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Profile
 <img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/screenshots/5.PNG" draggable="false" />
 
-### Dark mode
+### Light mode
 <img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/screenshots/6.PNG" draggable="false" />
