@@ -1,3 +1,10 @@
+# 09.07.2022
+ - The new version v2.2.2 has been successfully released and is now freely available to everyone.
+
+# 09.07.2022
+ - We will probably release the new version today.
+    - All important informations about this platform are available in the social networks and here on GitHub.
+
 # 08.07.2022
   - A new version is in progress and will be released soon.
 
