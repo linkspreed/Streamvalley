@@ -4,8 +4,8 @@
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Ples/blob/main/changelog.md)** **Check out the full Ples changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Ples/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Ples besides development**
+## **[Changelog 💙](https://github.com/linkspreed/Streamvalley/blob/main/changelog.md)** **Check out the full Streamvalley changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Streamvalley/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Streamvalley besides development**
 
 
 <div align="center">
