@@ -1,3 +1,24 @@
+### 09.05.2023 (announcement Streamvalley)
+- https://github.com/linkspreed/Streamvalley/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Streamvalley)
+- The launch of version 3.0 of **Streamvalley** was successful! 🥳
+- The new update is live now :)
+- https://streamvalley.tk 🔗
+
+### 09.05.2023 (announcement Streamvalley)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Streamvalley)
+- The servers are now ready for the launch of version 3.0 for **Streamvalley**.
+
+### 09.05.2023 (announcement Streamvalley)
+- The code is now ready for the launch of version 3.0 for **Streamvalley**.
+
+### 09.05.2023 (announcement Streamvalley)
+-  **Streamvalley** gets a big update today - we are going to launch v3.0. 😍
+
 # 24.09.2022
  - The entire changelog for the new version (2.2.8) is now available on Github. :D
 
