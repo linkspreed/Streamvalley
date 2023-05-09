@@ -1,4 +1,4 @@
-# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/)) (v3.0)
 
 💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
 
