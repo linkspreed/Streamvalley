@@ -1,4 +1,7 @@
 ### 09.05.2023 (announcement Streamvalley)
+- 🎉 Exciting news, folks! Our team just released Version 3.0 for Streamvalley! We've got some tweaks left, but all the new features are up and running! Check out the patch notes and documentation on our Github! 🔥 What's your favorite new feature so far? #Streamvalley #newrelease 🚀
+
+### 09.05.2023 (announcement Streamvalley)
 - https://github.com/linkspreed/Streamvalley/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
