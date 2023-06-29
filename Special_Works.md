@@ -1,3 +1,6 @@
+### 29.06.2023 (announcement Streamvalley)
+- 🎉 Exciting news! 🌟 We've just added Streamvalley to our Subdomain system! 🔗🔁 Now, when you visit https://streamvalley.cf, you'll be redirected to our new platform at https://streamvalley.linkspreed.com. But don't worry, nothing changes for you! 😎 You can continue using the platform with all your existing data as usual. 📈📊 Who's ready to explore our updated features? 💪 #Streamvalley #NewPlatform #EnhancedExperience
+
 ### 01.06.2023 (announcement Streamvalley)
 - 🎥🌊 Exciting news! We just released version 3.0.1 for #Streamvalley, our video streaming platform. Experience faster load times and smoother playback. Have you updated yet? Let us know in the comments! #videostreaming #techupdate 💻👀
 
